@@ -1,0 +1,13 @@
+mavlink_attitude_t roll
+mavlink_attitude_t pitch
+mavlink_attitude_t yaw
+mavlink_attitude_t rollspeed
+mavlink_attitude_t pitchspeed
+mavlink_attitude_t yawspeed
+mavlink_vfr_hud_t groundspeed
+mavlink_vfr_hud_t heading
+mavlink_mission_request_t seq
+mavlink_mission_request_t mission_type
+mavlink_mission_request_t target_component
+mavlink_mission_item_int_t current
+mavlink_mission_count_t count
