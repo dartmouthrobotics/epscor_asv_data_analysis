@@ -16,3 +16,10 @@ E:\users\andrew\Documents\Visual Studio 2010\Projects\TLogDataExtractor\TLogData
 E:\users\andrew\Documents\Visual Studio 2010\Projects\TLogDataExtractor\TLogDataExtractor\obj\x86\Debug\GenerateResource.write.1.tlog
 E:\users\andrew\Documents\Visual Studio 2010\Projects\TLogDataExtractor\TLogDataExtractor\bin\Debug\TLogDataExtractor.exe
 E:\users\andrew\Documents\Visual Studio 2010\Projects\TLogDataExtractor\TLogDataExtractor\bin\Debug\TLogDataExtractor.pdb
+C:\Users\lupan\git_ws\epscor_asv_data_analysis\Tlog analyzer\TLogDataExtractor\TLogDataExtractor\TLogDataExtractor\obj\x86\Debug\TLogDataExtractor.csprojAssemblyReference.cache
+C:\Users\lupan\git_ws\epscor_asv_data_analysis\Tlog analyzer\TLogDataExtractor\TLogDataExtractor\TLogDataExtractor\obj\x86\Debug\TLogDataExtractor.MainForm.resources
+C:\Users\lupan\git_ws\epscor_asv_data_analysis\Tlog analyzer\TLogDataExtractor\TLogDataExtractor\TLogDataExtractor\obj\x86\Debug\TLogDataExtractor.Properties.Resources.resources
+C:\Users\lupan\git_ws\epscor_asv_data_analysis\Tlog analyzer\TLogDataExtractor\TLogDataExtractor\TLogDataExtractor\obj\x86\Debug\TLogDataExtractor.csproj.GenerateResource.cache
+C:\Users\lupan\git_ws\epscor_asv_data_analysis\Tlog analyzer\TLogDataExtractor\TLogDataExtractor\TLogDataExtractor\obj\x86\Debug\TLogDataExtractor.csproj.CoreCompileInputs.cache
+C:\Users\lupan\git_ws\epscor_asv_data_analysis\Tlog analyzer\TLogDataExtractor\TLogDataExtractor\TLogDataExtractor\obj\x86\Debug\TLogDataExtractor.exe
+C:\Users\lupan\git_ws\epscor_asv_data_analysis\Tlog analyzer\TLogDataExtractor\TLogDataExtractor\TLogDataExtractor\obj\x86\Debug\TLogDataExtractor.pdb
